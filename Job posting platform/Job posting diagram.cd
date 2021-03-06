@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Job_posting_platform.Database.ChooseVacationCountry" Collapsed="true">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationCityfromAzerbaijan" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationAge" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationEducationDegree" Collapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationWorktTime" Collapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationLanguageRequirement" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAABAAAAAAQAAAAABAAAAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationExperienceRequirement" Collapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAQAEAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.ChooseVacationSalaryRequirement" Collapsed="true">
+    <Position X="36.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAQAAACAAQAAAAAoAAAAAAAAAAgAACAA=</HashCode>
+      <FileName>Database\Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.CV" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIACgAAAAAAoAAAAAAABAJAAAAAEQCIChAAAAAAAIQ=</HashCode>
+      <FileName>Database\CV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.Database" Collapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ChUEIsgD0ABAmwAgBgBAFbQEQMxOELBggCDCUyCAQoI=</HashCode>
+      <FileName>Database\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Database.Vacation" Collapsed="true">
+    <Position X="38.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CARAGyAAEAACgAAIAAwACAAAAAAAEEAAQECAAAAAAAA=</HashCode>
+      <FileName>Database\Vacation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionBase" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAEAAAAAAAAAAEAAAIAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseSalary" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseExperience" Collapsed="true">
+    <Position X="10.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseLanguage" Collapsed="true">
+    <Position X="14.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseVacationWorktTime" Collapsed="true">
+    <Position X="19.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseVacationEducationDegree" Collapsed="true">
+    <Position X="23.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionChooseAge" Collapsed="true">
+    <Position X="28.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionUpdate" Collapsed="true">
+    <Position X="5.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionFind" Collapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionJoin" Collapsed="true">
+    <Position X="17" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionMail" Collapsed="true">
+    <Position X="21.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExceptionLogIn" Collapsed="true">
+    <Position X="26" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExeptionRemove" Collapsed="true">
+    <Position X="30.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.ExeptionFilling" Collapsed="true">
+    <Position X="8" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Exception.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Exception_and_Notification.Notification" Collapsed="true">
+    <Position X="7" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAIAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNotification" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JoinNotificationAddListForAdmin" Collapsed="true">
+    <Position X="7" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RemoveNotification" Collapsed="true">
+    <Position X="9.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UpdateNotification" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FindNotification" Collapsed="true">
+    <Position X="2.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Exception and Notification\Notification.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.Program" Collapsed="true">
+    <Position X="36.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.User.Employer" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAQAAAACKAgAAIAAAAQAEAAAAAAAACAQQAAAAIAAA=</HashCode>
+      <FileName>User\Employer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Job_posting_platform.User.Human" Collapsed="true">
+    <Position X="3.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAACAAAAEAEAAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User\Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Job_posting_platform.User.Worker" Collapsed="true">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAACKAgAAIAAAAQAAAAAAAAAACAAAAEAAAAAA=</HashCode>
+      <FileName>User\Worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Job_posting_platform.User.User" Collapsed="true">
+    <Position X="33" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACIAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>User\User.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
